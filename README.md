@@ -13,4 +13,4 @@ To run the Jest UI and API test in this project:
  
 To run the Cucumber (Given When Then) feature files UI and API test in this project:
  - On CLI use command: npm run test:e2e tests/acceptance/features 
- - to run the Cucumber feature files headless or headed, just chnge the value of headless to true or false as you wish, in the /cucumber.conf.js file 
+ - to run the Cucumber feature files headless or headed, just change the value of headless to true or false as you wish, in the /cucumber.conf.js file 
